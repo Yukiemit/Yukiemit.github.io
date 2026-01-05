@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    height: 100vh;
+    padding-top: 70px;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+}
+
+.name-container {
+    text-align: center;
+}
+
+.last-name {
+    font-size: 80px;
+    font-weight: 800;
+    letter-spacing: 5px;
+}
+
+.first-name {
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: 10px;
+    letter-spacing: 2px;
+}
