@@ -13,7 +13,7 @@
     --sidebar-bg: #2c2c2c;
     --text-color: #ffffff;
     --highlight-color: #ffd900;
-    --accent-color: #667eea;
+    --accent-color: #ffb400;
     --input-bg: #3c3c3c;
     --footer-bg: #1c1c1c;
 }
@@ -64,7 +64,7 @@ h1 {
 
 .theme-button:hover {
     transform: scale(1.05);
-    background-color: #5561c2;
+    background-color: #ffb400;
 }
 
 
@@ -196,7 +196,7 @@ body.light-theme {
     --sidebar-bg: #e0e0e0;
     --text-color: #1e1e1e;
     --highlight-color: #ffb400;
-    --accent-color: #5a67d8;
+    --accent-color: #ffb400;
     --input-bg: #ffffff;
     --footer-bg: #dcdcdc;
 }
